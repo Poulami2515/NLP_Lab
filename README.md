@@ -17,7 +17,7 @@ The notebooks are designed to provide hands-on experience with NLP techniques, t
 
 | Notebook | Topic | Description |
 |----------|-------|-------------|
-| [qa-class-demo 1.ipynb](./qa-class-demo%201.ipynb) | Question Answering | Extractive question answering using information from a given passage. |
+| [qa-class-demo 1.ipynb](./qa-class-demo%201.ipynb) | Question Answering | Extractive question answering using information from a given passage using BERT family of models. |
 | [emotion.ipynb](./emotion.ipynb) | Emotion Classification | Fine-tuning DistilBERT for multi-class emotion classification using Hugging Face Transformers. |
 
 ## 1. Question Answering
@@ -28,8 +28,8 @@ This notebook demonstrates extractive Question Answering, where a model identifi
 
 ### Topics Covered
 - Understanding extractive question answering
-- Processing questions and context passages
-- Applying NLP models to extract answers
+- Processing questions and context passages 
+- Applying NLP models (BERT family) to extract answers
 - Examining model predictions
 
 ## 2. Emotion Classification
